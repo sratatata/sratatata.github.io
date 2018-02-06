@@ -1,6 +1,6 @@
 ---
 layout: post
-title: User story - fighting in Jira
+title: Fighting in Jira
 ---
 
 When it comes to Jira I'm not it's fan. Recently I've struggling with very difficult SCRUM project related somehow to health industry. It was not very complex one, but deffinitly deadline was an issue here. We have working on second milestone, preparation to pilot release for big customer. First milestone was focusing on preparing proof of concept, by development of prototype version of the system. It's worth to notice this detail. 
