@@ -3,11 +3,10 @@ layout: page
 title: CV
 permalink: /cv/
 ---
+
 Wojciech Żarski
-birth date: 09-03-1985
-e-mail: wojciech.zarski@gmail.com
-mobile: +48 603-322-717
-address: st. Zeusa 49/19, 01-497 Warsaw, Poland
+
+birth date: 09-03-1985; e-mail: wojciech.zarski(at)gmail.com ; city: Warsaw, Poland
 
 ## Profile
 
@@ -17,9 +16,9 @@ My key interest is traveling on motorcycle. I’m also spending a lot of time pl
 ## Employment History
 ### Samsung Electronics Sp. z o.o. , Warsaw 	06.2016 - present 
 #### as Part Leader
-I’m team leader of 12 person development team. To my duties belongs coaching, tech-leading, trainings organization, projects leading if no Scrum is applied and administration. I’m working also on improving team to team communication in our division with inspiration of Scrum tools. Second objective is to enhance people to more pro-active attitude.
+I’m team leader of 19 person development team. To my duties belongs coaching, tech-leading, trainings organization, projects leading if no Scrum is applied and administration. I’m working also on improving team to team communication in our division with inspiration of Scrum tools. Second objective is to enhance people to more pro-active attitude.
 
-###Samsung Electronics Sp. z o.o. , Warsaw 	11.2014 - 06.2016
+### Samsung Electronics Sp. z o.o. , Warsaw 	11.2014 - 06.2016
 #### as Senior Software Engineer
 I was working in Software Engineering Process team as Senior Java developer. 
 In my responsibilities was design and implementation of middleware  software between Jira and Korean HQ services. Later I switched to Business Innovation Lab where I was responsible for backend services of new B2B and commercial products as an developer and architect.
