@@ -1,6 +1,7 @@
 ---
 layout: post
 title: My first post
+commets: true
 ---
 
 I've decided to start writing so I could remember better some things. Also I like to introduce my self to those people who are looking for my profile in the internet. 
