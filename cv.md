@@ -55,34 +55,34 @@ Master degree in IT, specialization Business Software Development
 ## Skills
 ### Programming
 
-* Java, ****
-* AngularJS *
-* JavaScript **
-* Tizen Web Apps *
-* Android, **
-* Groovy, **
-* Python, **
-* .Net **
-* SQL ***
-* C++ *
-* PHP *
-* RabbitMQ ***
+* Java, :star::star::star::star::star:
+* AngularJS :star:
+* JavaScript :star::star:
+* Tizen Web Apps :star:
+* Android, :star::star:
+* Groovy, :star::star:
+* Python, :star::star:
+* .Net :star::star:
+* SQL :star::star::star:
+* C++ :star:
+* PHP :star:
+* RabbitMQ :star::star::star:
 * Mongo :star:
 
 ### DevOps
 
-* Docker ***
-* Bash **
-* Linux system ****
-* Continuous Integration (Jenkins/Bamboo) ***
+* Docker :star::star::star:
+* Bash :star::star:
+* Linux system :star::star::star::star:
+* Continuous Integration (Jenkins/Bamboo) :star::star::star:
 
 ### General
 
-* Architecture design ***
-* Micro-services, practice knowledge ***
-* Clean Code good practices ***
-* TDD ***
-* Design Patterns ***
+* Architecture design :star::star::star::star:
+* Micro-services, practice knowledge :star::star::star:
+* Clean Code good practices :star::star::star::star:
+* TDD :star::star::star:
+* Design Patterns :star::star::star:
 
 ### Language: 
 
