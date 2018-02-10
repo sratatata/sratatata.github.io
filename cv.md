@@ -67,7 +67,7 @@ Master degree in IT, specialization Business Software Development
 * C++ *
 * PHP *
 * RabbitMQ ***
-* Mongo *
+* Mongo :star:
 
 ### DevOps
 
