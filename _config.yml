@@ -34,7 +34,7 @@ plugins:
 show_excerpts: true
 
 disqus:
-      shortname: wojciech-zarski
+  shortname: wojciech-zarski
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
