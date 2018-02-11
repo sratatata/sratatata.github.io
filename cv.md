@@ -16,7 +16,7 @@ My key interest is traveling on motorcycle. I’m also spending a lot of time pl
 ## Employment History
 ### Samsung Electronics Sp. z o.o. , Warsaw 	06.2016 - present 
 #### as Part Leader
-I’m team leader of 19 person development team. To my duties belongs coaching, tech-leading, trainings organization, projects leading if no Scrum is applied and administration. I’m working also on improving team to team communication in our division with inspiration of Scrum tools. Second objective is to enhance people to more pro-active attitude.
+I’m team leader of 19 person development team. To my duties belongs coaching, tech-leading, trainings organization, projects leading if no Scrum is applied and administration. I’m working also on improving team to team communication in our division with inspiration of Scrum tools. Second objective is to enhance teammates to more pro-active attitude.
 
 ### Samsung Electronics Sp. z o.o. , Warsaw 	11.2014 - 06.2016
 #### as Senior Software Engineer
@@ -56,18 +56,15 @@ Master degree in IT, specialization Business Software Development
 ### Programming
 
 * Java, :star::star::star::star::star:
-* AngularJS :star:
-* JavaScript :star::star:
-* Tizen Web Apps :star:
-* Android, :star::star:
-* Groovy, :star::star:
-* Python, :star::star:
-* .Net :star::star:
-* SQL :star::star::star:
+* Python :star::star:
+* JavaScript for Web :star::star:
+* Tizen :star:
+* Android :star::star:
+* SQL databases :star::star::star:
+* NoSQL databases :star::star:
+* .Net :star:
 * C++ :star:
 * PHP :star:
-* RabbitMQ :star::star::star:
-* Mongo :star:
 
 ### DevOps
 
@@ -76,13 +73,16 @@ Master degree in IT, specialization Business Software Development
 * Linux system :star::star::star::star:
 * Continuous Integration (Jenkins/Bamboo) :star::star::star:
 
-### General
+### Fundamental
 
+* Dependency managment :star::star::star:
 * Architecture design :star::star::star::star:
 * Micro-services, practice knowledge :star::star::star:
+* Distributed programming :star::star::star:
 * Clean Code good practices :star::star::star::star:
 * TDD :star::star::star:
 * Design Patterns :star::star::star:
+* Scrum :star::star::star::star:
 
 ### Language: 
 
@@ -91,6 +91,7 @@ Master degree in IT, specialization Business Software Development
 
 ## Trainings
 
+* 2018 - Spring Microservices training by Sages
 * 2015 - Crafting Code, workshop by Sandro Mancuso
 * 2012 - MBTI & communication training, profile I N++++ T+ P+ 
 * 2009 - Advanced Microsoft CRM Development 
@@ -101,12 +102,19 @@ Master degree in IT, specialization Business Software Development
 
 ## Last 3 Projects
 
+* Health care application for wearable and mobile devices
+* Security library based on Knox for telecomunication companies
+* Android security application for retail
 * Tizen Smart Watch health care app architecture design for IBM Bluemix platform.
 * Android special ebook reader with augmented reality and other multimedia, roles: backend developer and web frontend developer.
 * Event driven heavy load ready project management service, roles: architect, developer.
 
 ## Recent Conferences
 
+* 2017 DevFest by Google, Warsaw 
+* 2017 Code Europe, Warsaw
+* 2017 Samsung Galaxy Geeks Hackathon, Warsaw
+* 2017 Samsung Students turnament (as host and jury), Warsaw
 * 2016 Samsung internal Hackathon (as host), Warsaw
 * 2015 Geecon, Krakow
 * 2015 TDD Geecon, Poznan
@@ -117,16 +125,11 @@ Master degree in IT, specialization Business Software Development
 
 ## Recent Books
 
+* Adaptive Code: Agile coding with design patterns and SOLID principles - Gary McLean Hall
+* Getting Things Programmed. Droga do efektywnosci - Bertyzel Michal
 * Android Development Heads First
 * Managing Humans
 * Test-Driven Development - K. Beck
 * Growing Object-Oriented Software, Guided by Tests - Steve Freeman and Nat Pryce
 * Building Microservices - Sam Newman
 * Effective Java - Joshua Bloch 
-
-
-## Agreement
-Wyrażam zgodę na przetwarzanie moich danych osobowych zawartych w mojej aplikacji dla potrzeb niezbędnych do realizacji procesów rekrutacji (zgodnie z Ustawą z dnia 29 sierpnia 1997 r. o ochronie danych osobowych tj. Dz. U. z 2002 r., Nr 101, poz. 926, ze zm.), prowadzonych przez stepStone Services Sp. z o.o.  z siedzibą w Warszawie
-
-
-[jekyll-organization]: https://github.com/jekyll
