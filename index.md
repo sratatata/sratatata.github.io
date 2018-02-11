@@ -4,7 +4,6 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
-## Who am I?
 
 I’m leaving and working at Warsaw, Poland. Currently employed by Samsung R&D as Part Leader [^1] of Mobile B2B Development team. I’m interested with back-end development and middle-ware development, however recently also mobile and wearable solutions. Most of my skills are focused around JVM ecosystem. But I like to learn new languages as an inspiration for my code style. I believe in clean code and XP techniques, so I’m trying constantly to improve my workshop and tools assortment.
 
