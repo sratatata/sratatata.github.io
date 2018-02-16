@@ -1,6 +1,6 @@
 ---
 layout: post
-title: agile-design
+title: Agile Development with Designers
 ---
 
 I was recently wondering how to work on UX and UI design in Scrum regime. I've reading a lot of articles and blog posts in that topic. 
