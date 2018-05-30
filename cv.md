@@ -14,9 +14,13 @@ I’m constantly looking for opportunities to learn new things or play new roles
 My key interest is traveling on motorcycle. I’m also spending a lot of time playing economic and strategic euro style boardgames. Recently I’ve started curses of architectural drawing. When I find some more time I like making things, electronic circuits, programming microcontrollers or even make hands dirty in mechanical workshop.
 
 ## Employment History
-### Samsung Electronics Sp. z o.o. , Warsaw 	06.2016 - present 
+### Samsung Electronics Sp. z o.o. , Warsaw 	06.2016 - present
+#### as Senior Software Engineer
+I'm currently focusing on Big Data and Data Sience projects, to expand my horizons and to help my current team with my development skills. My key rosponsibilites as senior developer is mentoring and reviewing implementation of alghorithms developed by data sience specialists. Additionally I'm helping with implementing scurum as a "Scrum Master".
+
+### Samsung Electronics Sp. z o.o. , Warsaw 	06.2016 - 05.2018 
 #### as Part Leader
-I’m team leader of 19 person development team. To my duties belongs coaching, tech-leading, trainings organization, projects leading if no Scrum is applied and administration. I’m working also on improving team to team communication in our division with inspiration of Scrum tools. Second objective is to enhance teammates to more pro-active attitude.
+I was team leader of 19 person development team. To my duties belongs coaching, tech-leading, trainings organization, projects leading if no Scrum is applied and administration. I was working also on improving team to team communication in our division with inspiration of Scrum tools. Second objective was to enhancing teammates to more pro-active attitude.
 
 ### Samsung Electronics Sp. z o.o. , Warsaw 	11.2014 - 06.2016
 #### as Senior Software Engineer
