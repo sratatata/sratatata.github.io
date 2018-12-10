@@ -16,7 +16,7 @@ If you already seen my [CV](http://wojciech.zarski.net/cv/), maybe you are inter
 * Programming
 
 I love making things, fixing some broken house hold items, or building my custom one. 
-You can find some of my builds on my [github](https://github.com/sratatata) account or my [thingverse]() https://www.thingiverse.com/lezacy_bykiem/designsaccount
+You can find some of my builds on my [github](https://github.com/sratatata) account or my [thingverse]( https://www.thingiverse.com/lezacy_bykiem/designs) account
 
 ## RC Models
 ![small-banner_diy](assets/hobby/small-banner-rc.png)
