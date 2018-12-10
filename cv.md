@@ -14,7 +14,7 @@ I’m constantly looking for opportunities to learn new things or play new roles
 My key interest is traveling on motorcycle. I’m also spending a lot of time playing economic and strategic euro style boardgames. Recently I’ve started curses of architectural drawing. When I find some more time I like making things, electronic circuits, programming microcontrollers or even make hands dirty in mechanical workshop.
 
 ## Employment History
-### Samsung Electronics Sp. z o.o. , Warsaw 	06.2016 - present
+### Samsung Electronics Sp. z o.o. , Warsaw 	05.2018 - present
 #### as Senior Software Engineer
 I'm currently focusing on Big Data and Data Sience projects, to expand my horizons and to help my current team with my development skills. My key rosponsibilites as senior developer is mentoring and reviewing implementation of alghorithms developed by data sience specialists. Additionally I'm helping with implementing scurum as a "Scrum Master".
 
@@ -44,7 +44,6 @@ Maintenance of existing software in J2EE and .Net. Responsible for development o
 #### as Web Developer
 Web developer and customisation specialist. Specialised in Joomla and Drupal content management systems. 
 
-
 ### Protoss, Warsaw 	08.2006-09.2006
 #### as J2EE Developer
 R&D Engineer, involved into development of the CRM application, using Java, Spring, Webwork and Hibernate.
@@ -60,7 +59,7 @@ Master degree in IT, specialization Business Software Development
 ### Programming
 
 * Java, :star::star::star::star::star:
-* Python :star::star:
+* Python :star::star::star:
 * JavaScript for Web :star::star:
 * Tizen :star:
 * Android :star::star:
@@ -81,8 +80,8 @@ Master degree in IT, specialization Business Software Development
 
 * Dependency managment :star::star::star:
 * Architecture design :star::star::star::star:
-* Micro-services, practice knowledge :star::star::star:
-* Distributed programming :star::star::star:
+  * Micro-services, practice knowledge :star::star::star:
+  * Data sience architecture :star::star:
 * Clean Code good practices :star::star::star::star:
 * TDD :star::star::star:
 * Design Patterns :star::star::star:
@@ -95,6 +94,7 @@ Master degree in IT, specialization Business Software Development
 
 ## Trainings
 
+* 2018 - TensorFlow training
 * 2018 - Spring Microservices training by Sages
 * 2015 - Crafting Code, workshop by Sandro Mancuso
 * 2012 - MBTI & communication training, profile I N++++ T+ P+ 
@@ -104,8 +104,9 @@ Master degree in IT, specialization Business Software Development
 * 2007 - LCCI: Level 2 Spoken English for Industry and Commerce 
 * 2004 - Driving License cat. B
 
-## Last 3 Projects
+## Recent Projects
 
+* Bigdata analytics platform for fitness data
 * Health care application for wearable and mobile devices
 * Security library based on Knox for telecomunication companies
 * Android security application for retail
@@ -115,6 +116,10 @@ Master degree in IT, specialization Business Software Development
 
 ## Recent Conferences
 
+* 2018 Code Europe, Warsaw
+* 2018 PyCon-pl 2018, Rawa Mazowiecka
+* 2018 ByteBay, Gdansk
+* 2018 Boiling Frogs, Wrocław
 * 2017 DevFest by Google, Warsaw 
 * 2017 Code Europe, Warsaw
 * 2017 Samsung Galaxy Geeks Hackathon, Warsaw
@@ -129,6 +134,7 @@ Master degree in IT, specialization Business Software Development
 
 ## Recent Books
 
+* Apache Spark: The Deffinitive Guide - Bill Chambers, Matei Zaharia
 * Adaptive Code: Agile coding with design patterns and SOLID principles - Gary McLean Hall
 * Getting Things Programmed. Droga do efektywnosci - Bertyzel Michal
 * Android Development Heads First
