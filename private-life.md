@@ -1,3 +1,10 @@
+---
+layout: page
+title: CV
+permalink: /cv/
+---
+My hobby
+
 If you already seen my [CV](http://wojciech.zarski.net/cv/), maybe you are interesting about what I'm interested with after my work. 
 
 # DIY
