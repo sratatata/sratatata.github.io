@@ -1,7 +1,7 @@
 ---
 layout: page
-title: CV
-permalink: /cv/
+title: Hobby
+permalink: /hobby/
 ---
 My hobby
 
